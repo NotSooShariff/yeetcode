@@ -20,7 +20,7 @@ def two_sum(nums, target):
 # 📜 Summary 
 The provided Python code solves the Two Sum problem using a brute-force approach. It iterates through the list of numbers, checking all possible pairs to see if their sum equals the target. If a pair with the desired sum is found, it returns a list containing the indices of those two numbers. If no solution is found, it returns an empty list or raises an exception. This approach has a time complexity of O(n^2) due to the nested loops.
 
-# 📚 Topics Used 
+# 🔑 Prerequisite Knowledge 
 - Nested Loops
 - List Iteration
 - Conditional Statements
