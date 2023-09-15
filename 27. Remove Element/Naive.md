@@ -1,4 +1,4 @@
-# The solution
+# 💡 The Solution
 
 ```python
 def removeElement(nums,val):
