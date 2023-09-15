@@ -25,7 +25,7 @@ class Solution(object):
 
 # 🔍 The Explanation 
 
-[![1. Two Sum](http://img.youtube.com/vi/KLlXCFG5TnA/0.jpg)](http://www.youtube.com/watch?v=KLlXCFG5TnA "1. Two Sum")
+[![1. Two Sum](http://img.youtube.com/vi/KLlXCFG5TnA/0.jpg)](http://www.youtube.com/watch?v=KLlXCFG5TnA "YouTube Link")
 
 # 📜 Summary 
 The provided Python code solves the Two Sum problem using a dictionary to efficiently store previously seen numbers and their indices. It iterates through the input list `nums`, calculates the difference between the `target` and the current number, and checks if the difference (complement) is in the dictionary. If found, it returns a list of indices of the two numbers that add up to the target. If not found, it continues iterating. This approach avoids redundant iterations and has a time complexity of O(n).
