@@ -10,7 +10,7 @@ The repository structure follows the format of "Problem Number. Problem Name." F
 - `2. Add Two Numbers`
 - ...
 
-Inside each directory, you will find a Markdown file (`.md`) that offers a detailed explanation of the problem and a Python solution heavily commented for easy comprehension.
+Inside each directory, you will find a Markdown file (`.md`) that offers a detailed explanation of the problem and a Python solution heavily commented on for easy comprehension.
 
 ## 📖 Problem Descriptions and Code
 
