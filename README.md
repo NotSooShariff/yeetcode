@@ -1,6 +1,8 @@
 # 📚 YeetCode: LeetCode Solutions in Python
 
-Welcome to YeetCode! This repository is dedicated to providing comprehensive Python solutions for LeetCode problems, specifically designed for complete beginners. Each problem's solution is housed in its own directory, making it easy for you to find the explanations and code you need.
+Welcome to YeetCode! This repository is dedicated to providing comprehensive Python solutions for LeetCode problems, specifically designed for complete beginners. Each problem's solution is housed in its directory, making it easy for you to find the explanations and code you need.
+
+> ⚠️ Note - I switched away from LeetCode to grind TryHackMe xD. Which is why it has just 3 problems. I promise to make this repo much more lively around placement season  
 
 ## 📂 Repository Structure
 
